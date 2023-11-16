@@ -1,0 +1,14 @@
+Overlapping genes:
+Gene: TRPV1 3565444 - 3609411
+Gene: SHPK 3608240 - 3636250
+
+rs224537 / Spicy food liking / NHGRI-EBI GWAS catalog
+rs161380 / Nephropathic cystinosis / ClinVar
+rs71379517 / F-burn/spicy liking derived food-liking factor / NHGRI-EBI GWAS catalog
+rs774145606 / See cases / ClinVar
+rs224536 / F-capsicum liking derived food-liking factor / NHGRI-EBI GWAS catalog
+rs10491214 / C-reactive protein / dbGaP
+rs10491214 / C-reactive protein / dbGaP
+rs771123129 / Malignant hyperthermia of anesthesia / ClinVar
+rs10491215 / C-reactive protein / dbGaP
+rs10491215 / C-reactive protein / dbGaP
