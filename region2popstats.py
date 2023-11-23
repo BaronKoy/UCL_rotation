@@ -75,7 +75,7 @@ for x in outurl:
             json_object = json.dumps(routpopurl, indent=4)
             json1 = json.loads(json_object)
             for m in json1['mappings']:
-               mapping = m['ancestral_allele']
+               mapping = ['ancestral_allele']
             print(rsid, '/', phenor, '/', source, '/', 'Ancestral_allele:', mapping, file=final)
             for pop in json1['population_genotypes']:
                if pop['population'].startswith('1000G'):
